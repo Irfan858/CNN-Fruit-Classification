@@ -1,0 +1,6 @@
+# Library List
+tensorflow
+streamlit
+matplot
+numpy
+pandas
